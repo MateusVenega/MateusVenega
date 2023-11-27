@@ -1,6 +1,6 @@
 # Olá, eu sou o Venega :vulcan_salute:
 
-Meu nome é Mateus Fernandes Venega,sou um eterno estudante e apreciador das Ciências Exatas e da tecnologia da informação, apaixonado por física, química e matemática, especialista em resolver o cubo mágico em menos de 1 min.
+Meu nome é Mateus Fernandes Venega, sou um estudante e apreciador das Ciências Exatas e da tecnologia da informação, apaixonado por física, química e matemática, especialista em resolver o cubo mágico em menos de 1 min.
 Em 2022 dei o meu primeiro passo para me tornar um Desenvolvedor Back-end(Node.js, TypeScript, PostgreSQL) ao iniciar o curso de Desenvolvimento de Software na instituição Cubos Academy.
 
 ## :point_right: Para me encontrar:
