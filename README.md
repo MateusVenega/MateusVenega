@@ -1,8 +1,6 @@
 # Olá, eu sou o Venega :vulcan_salute:
 
-Meu nome é Mateus Fernandes Venega, sou um estudante e apreciador das Ciências Exatas e da tecnologia da informação, apaixonado por física, química e matemática, especialista em resolver o cubo mágico em menos de 1 min.
-Em 2022 dei o meu primeiro passo para me tornar um Desenvolvedor Back-end(Node.js, TypeScript, PostgreSQL) ao iniciar o curso de Desenvolvimento de Software na instituição Cubos Academy.
-
+Meu nome é Mateus Fernandes Venega, sou um estudante e apreciador das Ciências Exatas e da tecnologia da informação, apaixonado por física, química e programação. Em 2022 tive a coragem de dar o primeiro passo para me tornar um Desenvolvedor Backend JavaScript utilizando  as ferramentas: Nodejs, ExpressJS, PostgresSQL e TypeScript  ao iniciar o curso de Desenvolvimento de Software na instituição Cubos Academy.
 ## :point_right: Para me encontrar:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-venega-7b3571124/)
