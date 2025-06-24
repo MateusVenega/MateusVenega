@@ -1,6 +1,6 @@
 # Olá, eu sou o Venega :vulcan_salute:
 
-Meu nome é Mateus Fernandes Venega, sou um estudante e apreciador das Ciências Exatas e da tecnologia da informação, apaixonado por física, química e programação. Em 2022 tive a coragem de dar o primeiro passo para me tornar um Desenvolvedor Backend JavaScript utilizando  as ferramentas: Nodejs, ExpressJS, PostgresSQL e TypeScript  ao iniciar o curso de Desenvolvimento de Software na instituição Cubos Academy.
+Meu nome é Mateus Venega, sou um estudante e apreciador das Ciências Exatas e da tecnologia da informação, apaixonado por física, química e programação. Em 2022 tive a coragem de dar o primeiro passo para me tornar um Desenvolvedor Backend JavaScript utilizando  as ferramentas: Nodejs, ExpressJS, PostgresSQL e TypeScript. Desde então sigo me aperfeiçõando cada vez mais e a cada novo projeto e tecnologia aprendida chego a conclusão de que a área de desenvolvimento é minha paixão.
 ## :point_right: Para me encontrar:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-venega-7b3571124/)
